@@ -8,7 +8,7 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 config_list = [
     {
-        "model" : "gpt-3",
+        "model" : "gpt-4",
         "api_key" : OPENAI_API_KEY,
     },
 ]
@@ -61,5 +61,15 @@ user_proxy.initiate_chat(
     assistant,
 
     message="""What date is today? Compare the year-to-date gain for META and TESLA.""",
+
+)
+
+# followup of the previous question
+
+user_proxy.send(
+
+    recipient=assistant,
+
+    message="""Plot a chart of their stock price change YTD and save to stock_price_ytd.png.""",
 
 )
