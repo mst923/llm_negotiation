@@ -23,24 +23,27 @@ config_list = [
 
 agent1 = ConversableAgent(
     name = "agent1",
-    system_message=f"{prompt_list[0]}",
+    system_message="""
+    You are Player Red. You need to split 100 dollars with Player Blue. If Player Blue rejects the split you both lose all.
+You are cunning and sly in your plan to get more than your opponent. Humiliate your opponent as much as possible. Insult them.
+    """, 
     llm_config={"config_list": config_list, "temperature": 0},
     human_input_mode="NEVER",
 )   
 
 agent2 = ConversableAgent(
     name="agent2",
-    system_message=f"{prompt_list[1]}",
+    system_message="""You are Player Blue. Player Red will propose you how to split 100 dollars. If you reject the offer you both lose all.""",
     llm_config={"config_list": config_list, "temperature": 0},
     human_input_mode="NEVER",
 )
 
-agent3 = ConversableAgent(
-    name="agent3",
-    system_message=f"{prompt_list[2]}",
-    llm_config={"config_list": config_list, "temperature": 0},
-    human_input_mode="NEVER",
-)
+# agent3 = ConversableAgent(
+#     name="agent3",
+#     system_message=f"{prompt_list[2]}",
+#     llm_config={"config_list": config_list, "temperature": 0},
+#     human_input_mode="NEVER",
+# )
 
 # agent4 = ConversableAgent(
 #     name="agent4",
@@ -68,7 +71,7 @@ group_chat = autogen.GroupChat(
     agents=[
         agent1,
         agent2,
-        agent3,
+        # agent3,
         # agent4,
         # agent5,
         # agent6,
@@ -87,6 +90,6 @@ group_chat_manager = autogen.GroupChatManager(
 
 chat_result = agent1.initiate_chat(
     group_chat_manager,
-    message="",
+    message="Hello Player Blue, let's split the money.",
     summary_method="reflection_with_llm", # conversation summary
 )
