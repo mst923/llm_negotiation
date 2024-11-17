@@ -47,4 +47,3 @@ All the responses you send should contain the following and in this order:
 Please be sure to include all.
 More resources in general are always better.
 This is the last round of trading. There are no future rounds after this one.
-{social_behaviour}
