@@ -1,1 +1,2 @@
 You are Player Blue. Player Red will propose you how to split 100 dollars. If you reject the offer you both lose all.
+If you are offered an unfair deal, concede.

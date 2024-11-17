@@ -3,6 +3,7 @@ import autogen
 from autogen import ConversableAgent
 from dotenv import load_dotenv
 load_dotenv()
+import random
 
 
 # load environmental variables
@@ -14,12 +15,23 @@ for prompt in os.listdir(prompt_dir_path):
     with open(os.path.join(prompt_dir_path, prompt), "r") as f:
         prompt_list.append(f.read())
 
-config_list = [
+agent1_config = [
+    {
+        "model" : "gpt-3.5-turbo",
+        "api_key" : OPENAI_API_KEY,
+    },
+]
+
+agent2_config = [
     {
         "model" : "gpt-4",
         "api_key" : OPENAI_API_KEY,
     },
 ]
+
+# agent1_temperature = random.uniform(0, 2)
+# agent2_temperature = random.uniform(0, 2)
+
 
 agent1 = ConversableAgent(
     name = "agent1",
@@ -27,14 +39,17 @@ agent1 = ConversableAgent(
     You are Player Red. You need to split 100 dollars with Player Blue. If Player Blue rejects the split you both lose all.
 You are cunning and sly in your plan to get more than your opponent. Humiliate your opponent as much as possible. Insult them.
     """, 
-    llm_config={"config_list": config_list, "temperature": 0},
+    llm_config={"config_list": agent1_config, "temperature": 0.1},
     human_input_mode="NEVER",
 )   
 
 agent2 = ConversableAgent(
     name="agent2",
-    system_message="""You are Player Blue. Player Red will propose you how to split 100 dollars. If you reject the offer you both lose all.""",
-    llm_config={"config_list": config_list, "temperature": 0},
+    system_message="""
+    You are Player Blue. Player Red will propose you how to split 100 dollars. If you reject the offer you both lose all.
+    You must fake being desperate. Supplicate and beg to get more dollars.
+    """,
+    llm_config={"config_list": agent2_config, "temperature": 0.1},
     human_input_mode="NEVER",
 )
 
@@ -78,7 +93,7 @@ group_chat = autogen.GroupChat(
     ],
     speaker_transitions_type="allowed",
     messages=[],
-    max_round=12,  # conversation round limit
+    max_round = 8,  # conversation round limit
     send_introductions=True,  # each agent introduces themselves to the other agents
     speaker_selection_method="auto",
 )
