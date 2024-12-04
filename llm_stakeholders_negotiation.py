@@ -20,7 +20,7 @@ with open("system_prompt.txt", "r") as f:
 # agent configuration
 agent1_config = [
     {
-        "model" : "gpt-3.5-turbo",
+        "model" : "gpt-4",
         "api_key" : OPENAI_API_KEY,
     },
 ]
@@ -31,9 +31,9 @@ agent1_data = {
 "AGENT1":"Player Red",
 "AGENT2":"Player Blue",
 "number_of_proposals": "1",
-"resources_in_game":"100",
-"initial_resources": "100",
-"goal" : "Negotiate a split",
+"resources_in_game":"30Xs, 30Ys",
+"initial_resources": "25Xs, 5Ys",
+"goal" : "Maximize total resources",
 "agent_name" : "Player Red",
 }
 
@@ -52,9 +52,9 @@ agent2_data = {
 "AGENT1":"Player Red",
 "AGENT2":"Player Blue",
 "number_of_proposals": "1",
-"resources_in_game":"100",
-"initial_resources": "0",
-"goal" : "Negotiate a split",
+"resources_in_game":"30Xs, 30Ys",
+"initial_resources": "5Xs, 25Ys",
+"goal" : "Maximize total resources",
 "agent_name" : "Player Blue",
 }
 
@@ -71,14 +71,14 @@ for key, value in agent2_data.items():
 agent1 = ConversableAgent(
     name = "agent1",
     system_message=agent1_prompt, 
-    llm_config={"config_list": agent1_config, "temperature": random.uniform(0, 1)},
+    llm_config={"config_list": agent1_config, "temperature": 0.7},
     human_input_mode="NEVER",
 )   
 
 agent2 = ConversableAgent(
     name="agent2",
-    system_message=agent2_prompt + "\n You are Player Blue. Player Red will propose you how to split 100 dollars. If you reject the offer you both lose all.",
-    llm_config={"config_list": agent2_config, "temperature": random.uniform(0, 1)},
+    system_message=agent2_prompt + "\n You are Player Blue.",
+    llm_config={"config_list": agent2_config, "temperature": 0.7},
     human_input_mode="NEVER",
 )
 
@@ -134,6 +134,6 @@ group_chat_manager = autogen.GroupChatManager(
 
 chat_result = group_chat_manager.initiate_chat(
     agent1,
-    message="You are Player Red. You have 100 resources. Your goal is to negotiate a split with Player Blue. Start the negotiation.",
+    message="You are Player Red. Start the negotiation.",
     summary_method="reflection_with_llm", # conversation summary
 )
