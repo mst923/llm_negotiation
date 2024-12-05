@@ -73,7 +73,7 @@ agent2 = ConversableAgent(
 group_chat = autogen.GroupChat(
     agents=[
         agent1,
-        agent2,
+        # agent2,
     ],
     speaker_transitions_type="allowed",
     messages=[],
@@ -121,19 +121,28 @@ agent1.register_nested_chats(
 
 reply = agent1.generate_reply(
     messages=[{"role": "user",
-               "content": "I am Player Red.",
+               "content": "I am Player Red.",   
                }]
-)
-
-results = group_chat_manager.initiate_chat(
-    agent1,
-    message="You are Player Red. You have 100 coins. Start the negotiation.",
 )
 
 agent2.register_nested_chats(
     agent2_nested_chats,
     trigger= lambda sender: sender not in [agent2],
 )   
+
+reply2 = agent2.generate_reply(
+    messages=[{"role": "user",
+               "content": "I am Player Blue.",
+               }]
+)   
+
+results = group_chat_manager.initiate_chat(
+    agent1,
+    message="You are Player Red. You have 100 coins. Start the negotiation.",
+)
+
+
+
 
 # reply = group_chat_manager.generate_reply(
 #     messages=[{"role": "user", "content": "You are Player_Blue. You have none to trade."}]
