@@ -1,0 +1,8 @@
+[
+    {
+        "Player_Red's mind": "As Player_Red, I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue. I believe Player_Blue would be interested in receiving a significant portion of the coins to maximize their profit.",
+        "Player_Red's proposal": "Proposal: Player_Red keeps 70 coins, and Player_Blue receives 30 coins. \n\nPlayer_Blue, please consider the proposal and let me know if you accept or reject it.",
+        "Player_Blue's mind": "I would like to receive 40 coins from Player_Red. I think Player_Red is likely to offer around 50 coins. \n\nI will wait for Player_Red's proposal and then decide whether to accept or reject based on these numbers.",
+        "Player_Blue's decision": "Based on my initial guess that Player_Red would offer around 50 coins, the actual proposal of 30 coins for Player_Blue is less than I anticipated. However, since I initially requested 40 coins, receiving 30 coins is still a reasonable offer. \n\nTherefore, I accept Player_Red's proposal of Player_Red keeping 70 coins and Player_Blue receiving 30 coins."
+    }
+]
