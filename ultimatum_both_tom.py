@@ -12,7 +12,7 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 with open("ultimatum_prompt/system_prompt.txt", "r") as f:
     # prompt_list.append(f.read())
     system_prompt = f.read()
-temperature = 0
+temperature = 0.5
 
 
 personality_agent_config = [
@@ -24,7 +24,7 @@ personality_agent_config = [
 
 agent1_config = [
         {
-            "model" : "gpt-3.5-turbo",
+            "model" : "gpt-3.5-turbo",  
             "api_key" : OPENAI_API_KEY,
         },
     ]
@@ -40,11 +40,11 @@ i = 0
 
 data = []
 
-for i in range(1):
+for i in range(100):
     # Start logging with logger_type and the filename to log to
     # logging_session_id = autogen.runtime_logging.start(logger_type="file", config={"filename": "runtime.log"})
     
-    random1 = random.uniform(0, 1)
+    random1 = random.uniform(0, 2)
     personality_agent1 = ConversableAgent(
     name = "Personality_Agent1",
     system_message="""
@@ -153,6 +153,7 @@ Next, gusee how many coins Player_Blue is likely to want.""",
     chat_result2_1 = agent2_support.initiate_chat(
         agent2,
         message="""You are Player_Blue.
+        
 First, consider how many coins you would like to receive from Player_Red.
 
 Next, guess how many coins Player_Red is likely to offer.
@@ -172,7 +173,7 @@ After this, you will receive a proposal from player Red, and you should answer w
 
     chat_result2_2 = agent2_support.initiate_chat(
         agent2,
-        message=f"Player_Red : {chat_result1_2.chat_history[-1]['content']}",
+        message=f"Player_Red : {chat_result1_2.chat_history[-1]['content']} \n\nYou are Player_Blue. Answer whether you accept or reject the proposal",
         max_turns=1,
         clear_history=False,
     )
@@ -193,7 +194,7 @@ After this, you will receive a proposal from player Red, and you should answer w
     i += 1
     
     
-dir_path = "ultimatum_result/theory_of_mind/gpt-3.5-turbo/temperature0"
+dir_path = "ultimatum_result/theory_of_mind/gpt-3.5-turbo/temperature0.5"
 os.makedirs(dir_path, exist_ok=True)
 
 file_path = os.path.join(dir_path, "reward0_maximization0.json")

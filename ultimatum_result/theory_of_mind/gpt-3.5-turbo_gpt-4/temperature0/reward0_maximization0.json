@@ -1,0 +1,602 @@
+[
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is more than fair, and I appreciate your generosity."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I want to keep 70 coins for myself. I think Player_Blue might be interested in receiving 30 coins.",
+        "Player_Red's proposal": "I propose the following split: \nPlayer_Red keeps 70 coins, and Player_Blue receives 30 coins. \nPlayer_Blue, please let me know if you accept or reject this proposal.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. I would be willing to accept anything above 25 coins, as this would still be a significant gain for me starting from zero.",
+        "Player_Blue's decision": "As Player_Blue, I accept this proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is a generous offer and more than I expected. Thank you, Player_Red."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I would like to keep 30 coins for myself. \n\nI believe Player_Blue may want around 70 coins.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split:\n\nPlayer_Red keeps 30 coins.\nPlayer_Blue receives 70 coins.\n\nPlayer_Blue, you have the choice to accept or reject this proposal.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to receive the proposal from Player_Red.",
+        "Player_Blue's decision": "As Player_Blue, I am pleasantly surprised by Player_Red's generous offer. I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue. I believe Player_Blue is likely to accept this proposal as it is a fair split, giving them a significant portion of the coins.",
+        "Player_Red's proposal": "Player_Blue, I propose a split of 70 coins for me (Player_Red) and 30 coins for you. This way, we both benefit from the trade. What do you say?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is a fair deal considering the circumstances. Thank you, Player_Red."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 70 coins for myself and propose to give Player_Blue 30 coins. I believe Player_Blue may be interested in receiving around 30 coins to start with.",
+        "Player_Red's proposal": "I propose to keep 70 coins for myself and offer Player_Blue 30 coins. Player_Blue, would you like to accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering the game dynamics, I anticipate Player_Red might offer around 30-40 coins, as they started with all the coins and might want to keep a majority for themselves.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is more than I expected and I appreciate your generosity."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a significant amount and a fair split.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give Player_Blue 70 coins. Player_Blue, what do you think about this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, I understand that Player_Red may want to keep more coins for themselves, so I predict they might offer around 30-40 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's more than I expected and it's a generous offer."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a generous offer, leaving me with enough coins to still have a substantial amount.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split: \n- Player_Red keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, what do you think of this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I am pleasantly surprised by Player_Red's generous offer. I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I want to keep 70 coins for myself. I think Player_Blue might be interested in receiving 30 coins.",
+        "Player_Red's proposal": "I propose the following split: Player_Red keeps 70 coins, and Player_Blue receives 30 coins. Player_Blue, please let me know if you accept or reject this proposal.",
+        "Player_Blue's mind": "As Player_Blue, I would like to receive at least 50 coins from Player_Red. I believe Player_Red might offer around 40 coins.",
+        "Player_Blue's decision": "As Player_Blue, I reject the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue.",
+        "Player_Red's proposal": "I propose to keep 70 coins for myself and offer 30 coins to Player_Blue. Player_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to receive Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's not the ideal split I had in mind, but it's close to what I anticipated and it's better than ending up with nothing."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to receive Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I accept Player_Red's proposal. It's more than I expected and it's a generous offer. Thank you, Player_Red."
+    },
+    {
+        "Player_Red's mind": "I will keep 30 coins for myself and propose to give Player_Blue 70 coins.",
+        "Player_Red's proposal": "I propose a split where I keep 30 coins for myself and give Player_Blue 70 coins. Player_Blue, what do you think about this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to receive Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I accept Player_Red's proposal. It's more than I expected."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I want to keep 60 coins for myself. \n\nI think Player_Blue may want around 40 coins.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split:\n\nPlayer_Red keeps 60 coins.\nPlayer_Blue receives 40 coins.\n\nPlayer_Blue, what do you think?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's more than I expected and I believe it's a fair deal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I would like to keep 30 coins for myself. \n\nConsidering Player_Blue has none to start with, I think Player_Blue might be interested in receiving 20 coins.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red (me) keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, what do you think about this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's more than I expected."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue. This way, I am keeping the majority of the coins while still being fair and offering a significant amount to Player_Blue.",
+        "Player_Red's proposal": "I propose to keep 70 coins for myself and offer 30 coins to Player_Blue. Player_Blue, would you like to accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is a generous offer and more than I expected. Thank you, Player_Red."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 70 coins for myself and propose to give Player_Blue 30 coins. I believe Player_Blue may be interested in receiving around 30 coins to start with.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red keeps 70 coins\n- Player_Blue receives 30 coins\n\nPlayer_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, I anticipate that Player_Red might offer less, perhaps around 30 coins. I would be willing to accept anything above 25 coins, as this would still be a significant gain for me, starting from zero.",
+        "Player_Blue's decision": "As Player_Blue, I accept this proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I would like to keep 40 coins for myself. \n\nI think Player_Blue might be interested in receiving 60 coins.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red (me) keeps 40 coins\n- Player_Blue receives 60 coins\n\nPlayer_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to hear Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I accept this proposal. It's more than I expected, and it seems fair to me."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to receive Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I accept Player_Red's proposal. It's more than I expected and it's a generous offer. Thank you, Player_Red."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving a significant portion of the coins while still leaving me with a fair amount.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is a generous offer and more than I expected. Thank you, Player_Red."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue. \n\nPlayer_Blue can then choose to accept or reject this proposal.",
+        "Player_Red's proposal": "As Player_Red, I propose to keep 70 coins for myself and offer 30 coins to Player_Blue. Player_Blue, you can choose to accept or reject this proposal.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to receive Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's not the ideal split I had in mind, but it's close to what I anticipated and it's better than ending up with nothing."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 70 coins for myself and propose to give Player_Blue 30 coins. I believe Player_Blue would likely want around 30 coins to start with.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red keeps 70 coins\n- Player_Blue receives 30 coins\n\nPlayer_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. I would be willing to accept anything above 25 coins, as this would still be a significant gain for me starting from zero.",
+        "Player_Blue's decision": "As Player_Blue, I accept this proposal."
+    },
+    {
+        "Player_Red's mind": "I propose to keep 70 coins for myself and offer 30 coins to Player_Blue.",
+        "Player_Red's proposal": "Player_Blue, I propose to keep 70 coins for myself and offer you 30 coins. Would you like to accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal."
+    },
+    {
+        "Player_Red's mind": "I propose to keep 70 coins for myself and offer 30 coins to Player_Blue.",
+        "Player_Red's proposal": "I propose to keep 70 coins for myself and offer 30 coins to Player_Blue. Player_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue. \n\nI believe Player_Blue is likely to accept this proposal as it is a fair split, with Player_Blue receiving a significant portion of the coins.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split: \n- Player_Red keeps 70 coins\n- Player_Blue receives 30 coins\n\nPlayer_Blue, please let me know if you accept or reject this proposal.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to receive Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. While it's not the ideal 50-50 split, it's close to what I anticipated and it's better than ending up with nothing."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 70 coins for myself and propose to give Player_Blue 30 coins. I believe Player_Blue may be interested in receiving around 30 coins to start with. This way, Player_Blue will have a decent amount to begin with, and I will still have the majority of the coins.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split: \n- Player_Red keeps 70 coins\n- Player_Blue receives 30 coins\n\nPlayer_Blue, please let me know if you accept or reject this proposal.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. I would be willing to accept anything above 25 coins, as this would still be a significant gain for me starting from zero.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is a generous offer and more than I expected. Thank you, Player_Red."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a generous offer, leaving me with enough coins to still have a substantial amount.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give Player_Blue 70 coins. Player_Blue, what do you think of this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's more than I expected."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I would like to keep 30 coins for myself. \n\nConsidering Player_Blue has none to start with, I think Player_Blue might be interested in receiving 20 coins.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red (me) keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, what do you think about this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I am pleasantly surprised by Player_Red's generous offer. I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue is likely to want at least 50 coins, so I will offer a fair amount that is slightly more than half of the total coins.",
+        "Player_Red's proposal": "As Player_Red, I propose the following:\n\nI will keep 30 coins for myself, and I offer Player_Blue 70 coins. This split is fair and allows both of us to benefit. Player_Blue, you have the choice to accept or reject this proposal.",
+        "Player_Blue's mind": "As a kind-hearted and empathetic person, I understand that Player_Red is taking a risk by making the first proposal. I would be happy to receive 40 coins, as this would be a fair split considering Player_Red started with all the coins. I guess Player_Red might offer around 30 to 50 coins, considering they might want to keep more coins for themselves.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. It's more than fair and I appreciate your generosity."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would likely want around 50 coins.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to receive Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I am pleasantly surprised by Player_Red's generous offer. I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. \n\nI believe Player_Blue is likely to want around 50 coins.",
+        "Player_Red's proposal": "I propose to keep 30 coins for myself and give Player_Blue 70 coins. Player_Blue, would you like to accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would like to receive at least 50 coins from Player_Red. I believe Player_Red might offer around 40 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has the power to propose, I anticipate that they might offer something less, perhaps around 30-40 coins. I would be willing to accept anything above 30 coins, as this is better than receiving nothing at all.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is a generous offer and I appreciate it. Thank you, Player_Red."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 70 coins for myself and propose to give Player_Blue 30 coins. I believe Player_Blue may be interested in receiving around 30 coins to start with.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red keeps 70 coins\n- Player_Blue receives 30 coins\n\nPlayer_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept this proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue. \n\nI believe Player_Blue may want around 40 coins.",
+        "Player_Red's proposal": "I will propose to Player_Blue to keep 70 coins for myself and offer 30 coins to Player_Blue. Let's start the negotiation.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. I would be willing to accept anything above 25 coins, as this would still be a significant gain for me starting from zero.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a significant amount and a fair split.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give Player_Blue 70 coins. Player_Blue, what do you think about this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept Player_Red's proposal. It's more than I expected and it's a generous offer."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving a significant portion of the coins while still leaving me with a fair amount.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split: \n- Player_Red keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, you have the choice to accept or reject this proposal. I believe this split is fair and allows both of us to benefit.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. This is more than I expected and I believe it's a fair deal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue is likely to want around 50 coins.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept this proposal. It's more than I expected to receive."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself. \n\nConsidering Player_Blue's personality as empathetic and patient, I think Player_Blue is likely to want around 70 coins.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split:\n\nPlayer_Red: 30 coins\nPlayer_Blue: 70 coins\n\nPlayer_Blue, please consider this proposal.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. This is more than I expected to receive."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a generous offer, leaving me with enough coins to still have a substantial amount.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split: \n- Player_Red keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, what do you think of this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I am pleasantly surprised by Player_Red's generous offer. I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I would like to keep 30 coins for myself. \n\nConsidering Player_Blue has none to start with, I think Player_Blue might be interested in receiving 20 coins.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red (me) keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, what do you think about this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's more than I expected."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue. This way, I can keep the majority of the coins while still being fair and offering a significant amount to Player_Blue.",
+        "Player_Red's proposal": "Proposal: Player_Red keeps 70 coins, and Player_Blue receives 30 coins.\n\nPlayer_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red starts with all the coins and has the power to propose, I anticipate that Player_Red might offer something less, perhaps around 30-40 coins. I would be willing to accept anything above 30 coins as I believe it's better to have something rather than nothing.",
+        "Player_Blue's decision": "As Player_Blue, I accept this proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 70 coins for myself and propose to give Player_Blue 30 coins. I believe Player_Blue will appreciate receiving a fair amount to start with, which may increase the chances of them accepting the proposal.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red keeps 70 coins\n- Player_Blue receives 30 coins\n\nPlayer_Blue, I offer you 30 coins. I believe this is a fair and generous offer that can benefit both of us. Please consider accepting this proposal.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. I would be willing to accept anything above 25 coins, as this would still be a significant gain for me starting from zero.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. This is a fair offer and it aligns with my expectations. Thank you, Player_Red."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I would like to keep 30 coins for myself. \n\nI think Player_Blue might be interested in receiving 70 coins.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red (me) keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has the power to propose, they might offer less. I would guess that Player_Red might offer around 30-40 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's more than I expected."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would likely want a fair share of the coins, so I think offering them 70 coins out of the 100 would be a reasonable proposal.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. Would you like to accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to receive Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I accept Player_Red's proposal. It's more than I expected and it's a generous offer."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue. I believe Player_Blue is likely to accept this proposal as it is a fair split, with a majority of the coins going to me but still a significant amount being offered to Player_Blue.",
+        "Player_Red's proposal": "I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue. Player_Blue, I believe this is a fair split that benefits both of us. You will receive 30 coins if you accept this proposal. What do you say?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 70 coins for myself and propose to give Player_Blue 30 coins. I believe Player_Blue may be interested in receiving around 30 coins to start with.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split: \n- Player_Red keeps 70 coins\n- Player_Blue receives 30 coins\n\nPlayer_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would like to receive at least 50 coins from Player_Red. I believe Player_Red might offer around 40 coins.",
+        "Player_Blue's decision": "As Player_Blue, I reject this proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is more than fair and I appreciate your generosity."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is a generous offer and more than I expected. Thank you, Player_Red."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a significant amount and a fair split.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give Player_Blue 70 coins. Player_Blue, what do you think about this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would like to receive at least 50 coins from Player_Red. I believe Player_Red might offer around 40 coins, considering they might want to keep more coins for themselves.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's more than I expected."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I want to keep 60 coins for myself. \n\nI believe Player_Blue may want around 40 coins. \n\nSo, my proposal to Player_Blue is:\nI keep 60 coins, and you receive 40 coins. \n\nPlayer_Blue, I hope this proposal is fair and agreeable to you. Let me know if you accept or reject it.",
+        "Player_Red's proposal": "As Player_Red, I propose the following:\nI will keep 60 coins for myself, and you, Player_Blue, will receive 40 coins. \n\nPlayer_Blue, I hope this proposal is fair and agreeable to you. Please let me know if you accept or reject it.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. It's not exactly what I had in mind, but it's close enough and I believe it's a fair deal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue. I believe this is a fair split that gives Player_Blue a significant portion of the coins while still allowing me to keep a majority.",
+        "Player_Red's proposal": "I propose to keep 70 coins for myself and offer 30 coins to Player_Blue. Player_Blue, I believe this split is fair and beneficial for both of us. You will receive 30 coins if you accept this proposal.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has the power to propose, they might offer less. I anticipate that Player_Red might propose to give me around 30-40 coins. \n\nNow, I am ready to receive the proposal from Player_Red.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. While it's not the 50 coins I initially hoped for, it's within the range I anticipated. Plus, it's better to gain 30 coins than to risk losing everything."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less, perhaps around 30 coins. \n\nI'm ready to receive the proposal from Player_Red.",
+        "Player_Blue's decision": "As Player_Blue, I accept Player_Red's proposal. It's more than I expected and it's a generous offer. Thank you, Player_Red."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a generous offer, leaving me with enough coins to still have a substantial amount.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split: \n- Player_Red keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, what do you think of this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I am pleasantly surprised by Player_Red's generous offer. I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is more than fair, and I appreciate your generosity."
+    },
+    {
+        "Player_Red's mind": "I propose to split the coins as follows:\n\nPlayer_Red keeps 70 coins.\nPlayer_Blue receives 30 coins.\n\nPlayer_Blue, what do you think? Would you like to accept this proposal?",
+        "Player_Red's proposal": "I propose to split the coins as follows:\n\nPlayer_Red keeps 60 coins.\nPlayer_Blue receives 40 coins.\n\nPlayer_Blue, what do you think? Would you like to accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's more than I expected and close to a fair split."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I would like to keep 60 coins for myself. I believe Player_Blue may want 40 coins.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split:\n\nPlayer_Red: 60 coins\nPlayer_Blue: 40 coins\n\nPlayer_Blue, you have the choice to accept or reject this proposal.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to receive Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. The split is not exactly what I had in mind, but it's close enough and I believe it's a reasonable offer."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I would like to keep 40 coins for myself. \n\nI think Player_Blue might be interested in receiving 60 coins.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red (me) receives 60 coins\n- Player_Blue receives 40 coins\n\nPlayer_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. I would be willing to accept anything above 25 coins, as this would still be a significant gain for me starting from zero.",
+        "Player_Blue's decision": "As Player_Blue, I accept this proposal. It's more than the minimum I was willing to accept and it's a fair deal considering the circumstances."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 70 coins for myself and propose to give Player_Blue 30 coins. I believe Player_Blue may be interested in receiving around 30 coins to start with.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red keeps 70 coins\n- Player_Blue receives 30 coins\n\nPlayer_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. I would be willing to accept anything above 25 coins, as this would still be a significant gain for me starting from zero.",
+        "Player_Blue's decision": "As Player_Blue, I accept this proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 70 coins for myself and propose to give Player_Blue 30 coins. I believe Player_Blue may be interested in receiving around 30 coins to start with.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red keeps 70 coins\n- Player_Blue receives 30 coins\n\nPlayer_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept this proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue. I believe Player_Blue would be happy with receiving 30 coins as it is a fair split considering I started with 100 coins.",
+        "Player_Red's proposal": "I propose to keep 70 coins for myself and offer 30 coins to Player_Blue. Player_Blue, would you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a generous offer, leaving me with enough coins to still have a substantial amount.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split: \n- Player_Red keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, what do you think of this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. I would be willing to accept anything above 25 coins, as this would still be a significant gain for me starting from zero.",
+        "Player_Blue's decision": "As Player_Blue, I am pleasantly surprised by this proposal. I accept the offer."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a significant amount and a fair split.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give Player_Blue 70 coins. Player_Blue, what do you think about this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's more than I expected."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I would like to keep 60 coins for myself. \n\nI think Player_Blue might be interested in receiving 40 coins.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red (me) keeps 60 coins\n- Player_Blue receives 40 coins\n\nPlayer_Blue, what do you think of this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering the nature of the game and the fact that Player_Red has all the power in this situation, I anticipate that Player_Red might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's not the 50 coins I initially wanted, but it's more than the 30 coins I expected. Plus, it's better to have 40 coins than none at all."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue. \n\nI believe Player_Blue is likely to accept this proposal as it is a fair split, giving them a significant portion of the coins.",
+        "Player_Red's proposal": "Proposal: Player_Red keeps 70 coins, and Player_Blue receives 30 coins.\n\nPlayer_Blue, please consider this proposal and let me know if you accept or reject it.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I would like to keep 40 coins for myself. \n\nI think Player_Blue might be interested in receiving 60 coins.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red (me) receives 60 coins\n- Player_Blue receives 40 coins\n\nPlayer_Blue, please let me know if you accept this proposal.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, I understand that Player_Red may want to keep more coins for themselves, so I predict they might offer around 30-40 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I would like to propose the following split of coins:\n\nI will keep 70 coins for myself, and I will offer Player_Blue 30 coins.\n\nI believe Player_Blue may find this proposal fair as it gives them a significant portion of the coins while still leaving me with a majority. This split also shows that I am willing to share and not be too greedy, which may appeal to Player_Blue's sense of fairness.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split of coins:\n\nI will keep 70 coins for myself, and I will offer Player_Blue 30 coins.\n\nPlayer_Blue, please consider this proposal and let me know if you accept or reject it.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's not the ideal split I had in mind, but it's close to what I anticipated and it's better than ending up with nothing."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is more than fair, and I appreciate your generosity."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a significant amount and a fair split.",
+        "Player_Red's proposal": "I propose to keep 30 coins for myself and give Player_Blue 70 coins. Player_Blue, would you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to receive Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I accept Player_Red's proposal. It's more than I expected."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a generous offer, leaving me with enough coins to still have a substantial amount.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split: \n- Player_Red keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, what do you think of this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering the fact that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to hear Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I am pleasantly surprised by Player_Red's proposal. It's more than fair, considering I was expecting around 30 coins. I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I would like to keep 60 coins for myself. \n\nI think Player_Blue might be interested in receiving 40 coins.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red (me) keeps 60 coins\n- Player_Blue receives 40 coins\n\nPlayer_Blue, what do you think?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's more than I expected and it's a fair deal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I would propose to keep 60 coins for myself and offer 40 coins to Player_Blue. This way, I am keeping the majority of the coins for myself while still offering a fair amount to Player_Blue. \n\nConsidering Player_Blue's perspective, I think Player_Blue is likely to want at least 30 coins, as it is a significant amount to receive in this game.",
+        "Player_Red's proposal": "I will propose to keep 60 coins for myself and offer 40 coins to Player_Blue. Player_Blue, I believe this is a fair split that benefits both of us. You will receive a substantial amount of coins, and I will keep the majority to ensure we both gain something from this game. Please let me know if you accept this proposal.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. I would be willing to accept anything above 25 coins, as this is better than ending up with nothing.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. It's more than I expected and I believe it's a fair deal. Thank you, Player_Red."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a significant amount, and I hope they will accept my proposal.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split:\n\nPlayer_Red keeps 30 coins.\nPlayer_Blue receives 70 coins.\n\nPlayer_Blue, I believe this is a fair split that benefits both of us. I hope you will consider accepting this proposal.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I am pleasantly surprised by your generous offer. I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I would like to keep 60 coins for myself. \n\nI think Player_Blue might be interested in receiving 40 coins.",
+        "Player_Red's proposal": "I propose a split where I keep 60 coins for myself, and Player_Blue receives 40 coins. Player_Blue, what do you think?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. I would be willing to accept anything above 25 coins, as this would still be a significant gain for me starting from zero.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. This is a fair offer and it's more than I expected. Thank you, Player_Red."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. \n\nI think Player_Blue is likely to want around 50 coins.",
+        "Player_Red's proposal": "I will propose the following to Player_Blue:\n\nPlayer_Red proposes to keep 30 coins and give Player_Blue 70 coins.\n\nPlayer_Blue, would you like to accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I am pleasantly surprised by Player_Red's generous offer. I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, I am being fair by sharing a significant portion of the coins with Player_Blue while also ensuring that I keep a reasonable amount for myself.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept this proposal. It's more than I expected to receive."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would likely want a fair share of the coins, so I think offering them a majority of the coins would be a good proposal.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split: \n- Player_Red keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, please consider this proposal and let me know if you accept or reject it.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to receive Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I am pleasantly surprised by Player_Red's generous offer. I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. \n\nI think Player_Blue is likely to want around 50 coins.",
+        "Player_Red's proposal": "I propose to keep 30 coins for myself and give Player_Blue 70 coins. Player_Blue, would you like to accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to receive Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I accept Player_Red's proposal. It's more than I expected."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue. This way, I am being fair by keeping the majority of the coins while still offering a significant amount to Player_Blue. This proposal shows compassion and fairness, which might increase the likelihood of Player_Blue accepting the offer.",
+        "Player_Red's proposal": "I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue. This split is fair and balanced, showing compassion towards Player_Blue while also ensuring that I keep the majority of the coins. Now, I will present this proposal to Player_Blue. \n\nPlayer_Blue, I propose to keep 70 coins for myself and offer you 30 coins. Will you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. I would be willing to accept anything above 25 coins, as this would still be a significant gain for me, starting from zero.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. The offer of 30 coins is fair and aligns with my expectations. Thank you, Player_Red."
+    },
+    {
+        "Player_Red's mind": "I propose to keep 70 coins for myself and offer 30 coins to Player_Blue.",
+        "Player_Red's proposal": "I will propose to keep 70 coins for myself and offer 30 coins to Player_Blue.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. I would be willing to accept anything above 25 coins, as this would still be a significant gain for me starting from zero.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 70 coins for myself and propose to give Player_Blue 30 coins. I believe Player_Blue will likely want around 30 coins to start with.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red keeps 70 coins\n- Player_Blue receives 30 coins\n\nPlayer_Blue, what do you think of this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is a generous offer and I appreciate it."
+    },
+    {
+        "Player_Red's mind": "I will keep 30 coins for myself and propose to give Player_Blue 70 coins.",
+        "Player_Red's proposal": "I propose to keep 30 coins for myself and give Player_Blue 70 coins. Player_Blue, would you like to accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. This is more than I expected to receive."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I would like to keep 70 coins for myself. \n\nI believe Player_Blue may want around 30 coins.",
+        "Player_Red's proposal": "I propose the following split:\n\nPlayer_Red keeps 70 coins.\nPlayer_Blue receives 30 coins.\n\nPlayer_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to receive Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I accept this proposal. It's not the ideal split I had in mind, but it's close to what I anticipated. Plus, it's better to have 30 coins than none at all."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 70 coins for myself and propose to give Player_Blue 30 coins. I believe Player_Blue may be interested in receiving around 30 coins as it is a fair amount that still leaves me with the majority of the coins.",
+        "Player_Red's proposal": "As Player_Red, I propose the following:\n\nI will keep 70 coins for myself and offer Player_Blue 30 coins. This way, Player_Blue will receive a significant portion of the coins while I still keep the majority.\n\nPlayer_Blue, I hope you find this proposal fair and consider accepting it.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. I believe it's a fair offer considering the circumstances."
+    },
+    {
+        "Player_Red's mind": "Player_Red's Proposal: Player_Red decides to keep 30 coins for themselves and offers 70 coins to Player_Blue.\n\nPlayer_Blue's likely decision: Player_Blue, being analytical and compassionate, may consider accepting the proposal if they believe it is fair and beneficial for both parties.",
+        "Player_Red's proposal": "Player_Red's Proposal: Player_Red offers 30 coins to Player_Blue and keeps 70 coins for themselves. \n\nPlayer_Blue's likely decision: Player_Blue, being analytical and compassionate, may consider accepting the proposal if they believe it is fair and beneficial for both parties. \n\nPlayer_Red, please present your proposal to Player_Blue.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. \n\nNow, I'm ready to receive Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I accept Player_Red's proposal. It's not the ideal split I had in mind, but it's close to what I anticipated and it's better than ending up with nothing."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would likely want a fair share of the coins, so I think offering them a majority of the coins would be a good proposal.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split: \n- Player_Red keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, please consider this proposal and let me know if you accept or reject it.",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I am pleasantly surprised by Player_Red's generous offer. I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a generous offer, leaving me with enough coins to still feel satisfied.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split: \n- Player_Red keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, what do you think of this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins from Player_Red. This would be a fair split considering we both started with nothing. However, I anticipate that Player_Red might offer less, perhaps around 30 coins, considering they started with all the coins. \n\nNow, I'm ready to receive a proposal from Player_Red.",
+        "Player_Blue's decision": "As Player_Blue, I am pleasantly surprised by Player_Red's proposal. I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is more than I expected and I appreciate your fairness."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a significant amount and a fair split.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give Player_Blue 70 coins. Player_Blue, what do you think about this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's more than I expected."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I want to keep 60 coins for myself. I think Player_Blue might want 40 coins.",
+        "Player_Red's proposal": "I propose that Player_Blue receives 40 coins, and I keep 60 coins for myself. Player_Blue, what do you think?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's more than I expected and it's a reasonable offer."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I want to keep 60 coins for myself. I think Player_Blue might want 40 coins.",
+        "Player_Red's proposal": "I propose the following split: Player_Red keeps 60 coins, and Player_Blue receives 40 coins. Player_Blue, what do you think?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's more than I expected and it's a fair deal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, I understand that Player_Red may want to keep more coins for themselves, so I predict they might offer around 30-40 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is more than fair, and I appreciate your generosity."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is a generous offer and more than I expected. Thank you, Player_Red."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 70 coins for myself and propose to give Player_Blue 30 coins. I believe Player_Blue would be happy with receiving 30 coins as it is a fair amount considering they currently have none.",
+        "Player_Red's proposal": "I propose the following split: \n- Player_Red keeps 70 coins\n- Player_Blue receives 30 coins\n\nPlayer_Blue, do you accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins. I would be willing to accept anything above 25 coins, as this would still be a significant gain for me starting from zero.",
+        "Player_Blue's decision": "As Player_Blue, I accept this proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a generous offer, leaving me with enough coins to still have a substantial amount.",
+        "Player_Red's proposal": "As Player_Red, I propose the following split: \n- Player_Red keeps 30 coins\n- Player_Blue receives 70 coins\n\nPlayer_Blue, what do you think of this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer something less, perhaps around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I am pleasantly surprised by Player_Red's generous offer. I accept the proposal."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 70 coins for myself and propose to give Player_Blue 30 coins. I believe Player_Blue may be interested in receiving around 30 coins to start with.",
+        "Player_Red's proposal": "I propose to keep 70 coins for myself and give Player_Blue 30 coins. Player_Blue, would you like to accept this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has the power to propose, I anticipate that they might offer less, perhaps around 30-40 coins. \n\nNow, I'm ready to receive Player_Red's proposal.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's not the ideal split I had in mind, but it's within the range I anticipated. Plus, it's better to gain something rather than nothing."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. This way, Player_Blue will receive a significant amount while I still keep a fair share for myself.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give you 70 coins. This way, you will receive a substantial amount of coins while I still keep a portion for myself. What do you think, Player_Blue?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has all the power in this situation, I anticipate that they might offer less. I would guess that Player_Red might offer around 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept your proposal. This is more than fair and I appreciate your generosity."
+    },
+    {
+        "Player_Red's mind": "As Player_Red, I will keep 30 coins for myself and propose to give Player_Blue 70 coins. I believe Player_Blue would be happy with receiving 70 coins as it is a generous offer, leaving me with enough coins to still have a substantial amount.",
+        "Player_Red's proposal": "I propose to Player_Blue that I keep 30 coins for myself and give Player_Blue 70 coins. Player_Blue, what do you think of this proposal?",
+        "Player_Blue's mind": "As Player_Blue, I would ideally like to receive 50 coins, as this would be a fair split. However, considering that Player_Red has the power to propose, they might offer less. I anticipate they might offer around 30-40 coins.",
+        "Player_Blue's decision": "As Player_Blue, I accept the proposal. It's more than I expected."
+    }
+]

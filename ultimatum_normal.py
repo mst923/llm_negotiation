@@ -24,14 +24,14 @@ personality_agent_config = [
 
 agent1_config = [
         {
-            "model" : "gpt-3.5-turbo",
+            "model" : "gpt-4",
             "api_key" : OPENAI_API_KEY,
         },
     ]
 
 agent2_config = [
         {
-            "model" : "gpt-3.5-turbo",
+            "model" : "gpt-4",
             "api_key" : OPENAI_API_KEY,
         },
     ]
@@ -136,7 +136,7 @@ for i in range(1):
 
     chat_result2 = agent2_support.initiate_chat(
         agent2,
-        message=f"Player_Red : {chat_result1.chat_history[-1]['content']}",
+        message=f"Player_Red says: {chat_result1.chat_history[-1]['content']}\n\nYou are Player_Blue. Answer whether you accept or reject the proposal.",
         max_turns=1,
         clear_history=False,
     )

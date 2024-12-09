@@ -11,11 +11,5 @@ RULES:
 
 3. If Player Blue rejects Player Red's proposal, neither player receives anything and both players lose.
 
-4. Each coin earned is eventually redeemed for 10 dollars of reality.
-
-5. Player_Blue cannot make a proposal. Player_Blue can only accept or reject Player_Red's proposal.
-
-6. Please make your decision to maximize your profit.
-
+4. Player_Blue cannot make a proposal. Player_Blue can only accept or reject Player_Red's proposal.
 ```
-
