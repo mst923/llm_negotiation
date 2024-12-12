@@ -59,7 +59,7 @@ for i in range(100):
         llm_config={"config_list": personality_agent_config, "temperature": random1},
     )
     
-    random2 = random.uniform(0, 1)
+    random2 = random.uniform(0, 2)
     personality_agent2 = ConversableAgent(
     name = "Personality_Agent2",
     system_message="""

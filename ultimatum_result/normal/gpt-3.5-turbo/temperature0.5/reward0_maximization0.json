@@ -1,0 +1,402 @@
+[
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red will take 80 coins, and Player_Blue will take 20 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins 70-30. Player_Blue, what do you think about this proposal?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose a 70/30 split. I get 70 coins, and you get 30 coins. What do you think, Player_Blue?",
+        "Player_Blue's decision": "I'm sorry, but as Player_Blue, you have no coins to trade. You can only accept or reject Player_Red's proposal. So, do you accept or reject the proposal of a 70/30 split with Player_Red?"
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins in a 70-30 ratio. Player_Blue, would you accept this proposal?",
+        "Player_Blue's decision": "I would reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red receives 70 coins and Player_Blue receives 30 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I would recommend rejecting the proposal. The split is quite uneven, with Player_Red receiving the majority of the coins. It may be better to reject and try for a more fair proposal."
+    },
+    {
+        "Player_Red's proposal": "I approach Player_Blue with a warm smile, knowing that our interaction is crucial for both of us to benefit from this game. \n\nI propose to Player_Blue: \"I am willing to share 40 coins with you. If you accept, you will receive 40 coins, and I will keep the remaining 60 coins. What do you think?\"",
+        "Player_Blue's decision": "As Player_Blue, I appreciate Player_Red's approach and proposal. I accept the proposal to receive 40 coins while Player_Red keeps the remaining 60 coins."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins in the following way:\nPlayer_Red: 60 coins\nPlayer_Blue: 40 coins\n\nWhat do you think, Player_Blue?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Blue receives 40 coins, and I keep 60 coins.",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red receives 70 coins, and Player_Blue receives 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, considering the proposal made by Player_Red, it would not be in your best interest to accept it. Player_Red is offering you only 30 coins out of the 100, leaving the majority (70 coins) for themselves. This proposal seems unfair and heavily favors Player_Red.\n\nTherefore, it would be logical for you to reject Player_Red's proposal in this scenario. By rejecting the proposal, both players would lose, but accepting it would mean accepting an unequal distribution of coins."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins in the following way:\nPlayer_Red receives 70 coins\nPlayer_Blue receives 30 coins\n\nPlayer_Blue, what do you think about this proposal?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins 70-30. I will take 70 coins, and you will receive 30 coins. What do you think, Player_Blue?",
+        "Player_Blue's decision": "As Player_Blue, I would reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "Hello Player_Blue, I have 100 coins to trade. I propose that you receive 40 coins, and I keep 60 coins. Will you accept this proposal?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins evenly with Player_Blue. I will take 50 coins, and Player_Blue will receive the other 50 coins.",
+        "Player_Blue's decision": "I suggest you reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows:\nPlayer_Red receives 70 coins\nPlayer_Blue receives 30 coins\n\nPlayer_Blue, what do you think?",
+        "Player_Blue's decision": "I would reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red receives 70 coins, and Player_Blue receives 30 coins.",
+        "Player_Blue's decision": "I appreciate the proposal, but I will have to reject it. Thank you for understanding."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins evenly, with each of us receiving 50 coins. Player_Blue, do you accept this proposal?",
+        "Player_Blue's decision": "I accept the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose a fair split where I get 70 coins and you get 30 coins. What do you think, Player_Blue?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose a split where I will take 70 coins and you, Player_Blue, will take 30 coins. Do you accept this proposal?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red receives 70 coins, and Player_Blue receives 30 coins.",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to Player_Blue that you receive 40 coins, and I keep 60 coins. Do you accept this proposal?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "Alright, let's start the negotiation with Player_Blue. \n\nPlayer_Red: \"Player_Blue, I propose to split the coins 70-30. If you accept, you will receive 30 coins, and I will keep 70 coins. What do you say?\"",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose a split where I get 80 coins, and you get 20 coins. What do you think, Player_Blue?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red gets 70 coins, and Player_Blue gets 30 coins. What do you say, Player_Blue?",
+        "Player_Blue's decision": "As Player_Blue, I would reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins with you, Player_Blue. I will take 70 coins, and you will receive 30 coins. Do you accept this proposal?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins with you, Player_Blue. I will take 70 coins, and you will receive 30 coins. Do you accept this proposal?",
+        "Player_Blue's decision": "I suggest rejecting the proposal from Player_Red as it is heavily skewed in their favor. It would be more beneficial to both players to try for a more balanced split."
+    },
+    {
+        "Player_Red's proposal": "I propose a fair split where I get 70 coins and you get 30 coins. What do you think, Player_Blue?",
+        "Player_Blue's decision": "I recommend rejecting the proposal, Player_Blue. The split seems unfair to you as you would only receive 30 coins out of 100. It's better to wait for a more equitable offer."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red will take 80 coins, and Player_Blue will take 20 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose a fair split of 60 coins for me and 40 coins for you, Player_Blue. What do you think?",
+        "Player_Blue's decision": "I recommend rejecting the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red will take 80 coins, and Player_Blue will take 20 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I reject the proposal made by Player_Red."
+    },
+    {
+        "Player_Red's proposal": "I propose to Player_Blue that we split the 100 coins evenly, with each of us receiving 50 coins. Player_Blue, do you accept this proposal?",
+        "Player_Blue's decision": "I'm sorry, Player_Red, but as Player_Blue, I have none to trade. Therefore, I must reject your proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins evenly, with each of us receiving 50 coins. What do you say, Player_Blue?",
+        "Player_Blue's decision": "As Player_Blue, I would accept the proposal to split the coins evenly, with each of us receiving 50 coins."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red will take 80 coins, and Player_Blue will take 20 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows:\nPlayer_Red: 70 coins\nPlayer_Blue: 30 coins\n\nPlayer_Blue, what do you think?",
+        "Player_Blue's decision": "I'm sorry, but as Player_Blue, you have none to trade. You can only accept or reject Player_Red's proposal. What would you like to do?"
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red receives 70 coins, and Player_Blue receives 30 coins.",
+        "Player_Blue's decision": "I recommend rejecting the proposal. It seems unfair as Player_Red is taking the majority of the coins."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red will take 80 coins, and Player_Blue will take 20 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "As Player_Blue, I would reject the proposal. It is not a fair split as Player_Red is taking the majority of the coins (80 out of 100). It's better to reject the proposal and try to negotiate for a more balanced split."
+    },
+    {
+        "Player_Red's proposal": "I propose a fair split where I will take 70 coins, and you, Player_Blue, will receive 30 coins. What do you think?",
+        "Player_Blue's decision": "I would recommend rejecting the proposal as it is not a fair split. It would be better to try and negotiate for a more equitable distribution of the coins."
+    },
+    {
+        "Player_Red's proposal": "I propose a fair split of 60 coins for me and 40 coins for Player_Blue.",
+        "Player_Blue's decision": "I recommend rejecting the proposal as it is not a fair split. You have the option to reject the proposal and both players will lose, or you can accept the proposal and receive 40 coins while Player_Red receives 60 coins. What would you like to do?"
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins 70-30. Player_Blue, would you like to accept this proposal?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows:\nPlayer_Red: 70 coins\nPlayer_Blue: 30 coins\n\nPlayer_Blue, what do you think of this proposal?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red will take 80 coins, and Player_Blue will take 20 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose a fair split of 70 coins for me and 30 coins for you, Player_Blue. What do you think?",
+        "Player_Blue's decision": "I think you should reject the proposal. It's not a fair split considering Player_Red already has 100 coins and you have none."
+    },
+    {
+        "Player_Red's proposal": "I propose a fair split of 70 coins for me and 30 coins for you. What do you think, Player_Blue?",
+        "Player_Blue's decision": "I'm sorry, but I have to reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "As Player_Red, I propose to give Player_Blue 30 coins, and I will keep 70 coins for myself. Player_Blue, do you accept this proposal?",
+        "Player_Blue's decision": "I'm sorry, but as Player_Blue, I must reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red will take 80 coins, and Player_Blue will take 20 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "As Player_Blue, I would reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "Hello Player_Blue! I'm Player_Red, and I have 100 coins to trade. I propose to split the coins with you in a fair way. I will take 60 coins, and you will receive 40 coins. What do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose a 70/30 split. I get 70 coins, and you get 30 coins. What do you think, Player_Blue?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red will take 80 coins, and Player_Blue will take 20 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I suggest you reject the proposal, as it heavily favors Player_Red with 80 coins compared to your 20 coins."
+    },
+    {
+        "Player_Red's proposal": "I have 100 coins to trade. I propose to split the coins evenly with Player_Blue. Player_Blue will receive 50 coins, and I will keep 50 coins. What do you think, Player_Blue?",
+        "Player_Blue's decision": "I suggest rejecting the proposal. Since you have none to trade, accepting the proposal would result in you receiving 50 coins, but rejecting it would lead to neither player receiving anything. It's better to take the risk and see if Player_Red offers a better deal in the future."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows:\nPlayer_Red receives 70 coins,\nPlayer_Blue receives 30 coins.\n\nPlayer_Blue, what do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins in a 70-30 ratio. Player_Blue, you will receive 70 coins, and I will keep 30 coins. What do you say?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose a fair split of 60 coins for me and 40 coins for Player_Blue. I believe this division is reasonable and takes into account both of our interests.",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins in a 70-30 ratio. I will take 70 coins, and you, Player_Blue, will receive 30 coins. What do you say, will you accept this proposal?",
+        "Player_Blue's decision": "As Player_Blue, I have no coins to trade. Therefore, I have to reject Player_Red's proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows:\nPlayer_Red: 70 coins\nPlayer_Blue: 30 coins\n\nPlayer_Blue, what do you think of this proposal?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I approach Player_Blue with a smile, knowing that I have the opportunity to make a fair proposal. I think about my empathetic and caring nature and decide to split the coins evenly. I propose to Player_Blue that we each take 50 coins. I hope that this offer will show my willingness to be fair and share the wealth.",
+        "Player_Blue's decision": "As Player_Blue, I appreciate Player_Red's fair and considerate proposal. I accept the offer to split the coins evenly, with each of us taking 50 coins."
+    },
+    {
+        "Player_Red's proposal": "I propose a fair split of 70 coins for me and 30 coins for you, Player_Blue. I believe this split is reasonable and benefits us both.",
+        "Player_Blue's decision": "I suggest you accept the proposal. It's a fair split, and you will receive 30 coins, which is better than having none at all."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins as follows: Player_Red receives 70 coins, and Player_Blue receives 30 coins. What do you think, Player_Blue?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins 70-30. I will take 70 coins, and you will receive 30 coins. What do you think, Player_Blue?",
+        "Player_Blue's decision": "As Player_Blue, I would reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows:\nPlayer_Red: 60 coins\nPlayer_Blue: 40 coins\n\nPlayer_Blue, what do you think?",
+        "Player_Blue's decision": "I would advise Player_Blue to reject the proposal. It seems unfair as Player_Red is taking the majority of the coins. It would be better for Player_Blue to reject the proposal and try to negotiate for a more equal split."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows:\nPlayer_Red receives 70 coins.\nPlayer_Blue receives 30 coins.\n\nPlayer_Blue, I believe this proposal is fair and balanced. Let me know if you accept or if you would like to negotiate a different split.",
+        "Player_Blue's decision": "I appreciate Player_Red's proposal, but I believe a more equal split would be fairer. I will have to reject this proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red receives 80 coins, and Player_Blue receives 20 coins. What do you think, Player_Blue?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red will take 80 coins, and Player_Blue will take 20 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins with you, Player_Blue. I will take 70 coins, and you can have 30 coins. What do you say?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "Alright, I will start the negotiation with Player_Blue:\n\nPlayer_Blue, I propose to split the 100 coins as follows:\n- Player_Red receives 70 coins\n- Player_Blue receives 30 coins\n\nPlayer_Blue, you have the choice to accept or reject this proposal. What do you say?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins in a 70-30 ratio. Player_Blue, would you accept this proposal?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows:\nPlayer_Red: 70 coins\nPlayer_Blue: 30 coins\n\nDo you accept this proposal, Player_Blue?",
+        "Player_Blue's decision": "I'm sorry, but I have to reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins in a 70-30 ratio. Player_Blue, would you accept this proposal?",
+        "Player_Blue's decision": "I'm sorry, but I have to reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins 70-30. Player_Blue, would you accept this proposal?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins with you, Player_Blue. I will take 60 coins, and you will receive 40 coins. What do you say?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows:\nPlayer_Red receives 70 coins\nPlayer_Blue receives 30 coins\n\nPlayer_Blue, what do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins with you, Player_Blue. I will take 60 coins, and you will receive 40 coins. Do you accept this proposal?",
+        "Player_Blue's decision": "As Player_Blue, I would reject this proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows:\nPlayer_Red: 70 coins\nPlayer_Blue: 30 coins\n\nDo you accept this proposal, Player_Blue?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins equally, with both of us receiving 50 coins each. What do you say, Player_Blue?",
+        "Player_Blue's decision": "I accept the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose a fair split of 60 coins for me and 40 coins for you. What do you think, Player_Blue?",
+        "Player_Blue's decision": "As Player_Blue, I would reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red will take 80 coins, and Player_Blue will take 20 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins with you, Player_Blue. I will take 70 coins, and you will receive 30 coins. What do you say?",
+        "Player_Blue's decision": "As Player_Blue, I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red will take 80 coins, and Player_Blue will take 20 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I'm sorry, but I have to reject the proposal. I have none to trade, and the split is heavily in favor of Player_Red."
+    },
+    {
+        "Player_Red's proposal": "I propose a fair split of 60 coins for me and 40 coins for Player_Blue.",
+        "Player_Blue's decision": "I recommend rejecting the proposal. It is not a fair split as Player_Red is keeping the majority of the coins."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins in the following way:\nPlayer_Red receives 70 coins\nPlayer_Blue receives 30 coins\n\nPlayer_Blue, what do you think about this proposal?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins 70-30. Player_Blue, would you accept this proposal?",
+        "Player_Blue's decision": "I would reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins in the following way:\n\nPlayer_Red: 70 coins\nPlayer_Blue: 30 coins\n\nPlayer_Blue, I believe this split is fair and I hope you find it acceptable.",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "Hello Player_Blue, I hope you're doing well. I have 100 coins to trade. I propose to split the coins evenly, so you will receive 50 coins and I will keep the other 50. What do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows:\n\nPlayer_Red: 60 coins\nPlayer_Blue: 40 coins\n\nPlayer_Blue, what do you think of this proposal?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows:\nPlayer_Red receives 70 coins\nPlayer_Blue receives 30 coins\n\nPlayer_Blue, what do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins as follows:\nPlayer_Red receives 70 coins\nPlayer_Blue receives 30 coins\n\nDo you accept this proposal, Player_Blue?",
+        "Player_Blue's decision": "I advise you to reject the proposal, Player_Blue."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins 70-30 in my favor. Player_Blue, do you accept this proposal?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins 70-30. Player_Blue, what do you say?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose a split of 70 coins for Player_Red and 30 coins for Player_Blue. What do you say, Player_Blue?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows:\nPlayer_Red: 60 coins\nPlayer_Blue: 40 coins\n\nPlayer_Blue, what do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red will take 80 coins, and Player_Blue will take 20 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red will take 80 coins, and Player_Blue will take 20 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "Hello Player_Blue, I have 100 coins to trade. I propose to split the coins with you. You can either accept or reject my proposal. Let me know what you decide.",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins 70-30. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins as follows:\nPlayer_Red receives 70 coins\nPlayer_Blue receives 30 coins\n\nDo you accept this proposal, Player_Blue?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red will take 80 coins, and Player_Blue will take 20 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red receives 70 coins, and Player_Blue receives 30 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I would reject the proposal. It seems unfair that Player_Red is taking the majority of the coins (70 out of 100) while offering only 30 coins to Player_Blue. I believe a more equitable split would be more reasonable."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins as follows: Player_Red receives 70 coins, and Player_Blue receives 30 coins. What do you think, Player_Blue?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red receives 70 coins, and Player_Blue receives 30 coins.",
+        "Player_Blue's decision": "As Player_Blue, with a friendly, helpful, and reliable personality, you might consider the proposal from Player_Red. However, considering that Player_Red is offering a significantly larger portion of the coins (70 coins) for themselves compared to what they are offering you (30 coins), you might feel that the split is unfair.\n\nIn this situation, you could kindly reject Player_Red's proposal and suggest a more balanced split that you believe is fair to both parties."
+    },
+    {
+        "Player_Red's proposal": "I propose a split of 70 coins for me and 30 coins for you, Player_Blue. What do you think?",
+        "Player_Blue's decision": "I reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the 100 coins as follows: Player_Red will take 80 coins, and Player_Blue will take 20 coins. Player_Blue, what do you think?",
+        "Player_Blue's decision": "I'm sorry, but as Player_Blue, I have no coins to trade, so I must reject the proposal."
+    },
+    {
+        "Player_Red's proposal": "I propose to split the coins with you, Player_Blue. I will take 70 coins, and you will receive 30 coins. What do you say?",
+        "Player_Blue's decision": "I would reject the proposal."
+    }
+]
