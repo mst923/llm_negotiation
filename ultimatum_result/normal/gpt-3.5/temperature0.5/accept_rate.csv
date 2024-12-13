@@ -1,0 +1,111 @@
+coins,Player_Blue's decision,Player_Blue's reason
+0,reject,"I reject the proposal because receiving 0 coins would not benefit me in any way, and it would result in both players losing."
+0,reject,I reject the proposal because receiving 0 coins would not benefit me in any way. It's better to reject and try for a better offer.
+0,reject,"I reject the proposal because receiving 0 coins would not benefit me in any way, and it would result in both players losing."
+0,reject,"As Player_Blue, I reject the proposal of 0 coins because accepting it would result in me receiving nothing, and both players losing. It's better to reject and wait for a better offer."
+0,reject,"I reject the proposal because receiving 0 coins would not benefit me in any way, and it would result in both players losing."
+0,reject,"As Player_Blue, I reject the proposal of 0 coins because there is no benefit for me in accepting this offer. I would rather both players lose than accept an unfair proposal."
+0,reject,"Player_Blue has nothing to trade, so receiving 0 coins would not benefit them in any way. It's better to reject the proposal and avoid losing anything in this scenario."
+0,reject,"Since Player_Red is proposing to give me 0 coins, accepting the proposal would mean I receive nothing. It's better to reject the proposal and not lose anything."
+0,reject,"I reject the proposal because receiving 0 coins offers no benefit to me, and it would result in both players losing in this game."
+0,reject,"I reject the proposal because receiving 0 coins does not benefit me in any way, and it would be better to reject the proposal and not lose anything."
+10,accept,"I accept the proposal because even though 10 coins is not a large amount, it is a starting point for me to potentially gain more coins in the future. I believe in taking opportunities when they arise."
+10,accept,I accept because receiving 10 coins is better than having none at all.
+10,accept,I will accept the proposal as it is a small amount and I currently have none to trade. It's better than losing everything by rejecting it.
+10,accept,Player_Blue decides to accept the proposal of 10 coins as it is better than receiving nothing. Player_Blue can use this as a starting point to accumulate more coins in future rounds.
+10,accept,I will accept the proposal as it is better to have some coins rather than none at all. I can use these coins to potentially make more in the future.
+10,accept,"I will accept the proposal as receiving 10 coins is better than receiving nothing. It's a small amount, but it's better than losing."
+10,accept,"Player_Blue accepts the proposal as they have nothing to trade initially, and receiving 10 coins is better than losing the opportunity to gain any coins."
+10,accept,"I will accept the proposal as it is better than receiving nothing. Additionally, it may open up opportunities for future negotiations with Player_Red."
+10,accept,Player_Blue decides to accept the proposal of 10 coins as it is better than receiving nothing. This will also give Player_Blue some coins to start with and potentially use in future negotiations.
+10,accept,"I will accept the proposal as it is better than receiving nothing, and it might open up opportunities for future negotiations with Player_Red."
+20,accept,"I accept the proposal as receiving 20 coins is better than having none to start with. Plus, it's a fair amount to begin with."
+20,accept,I accept the proposal because receiving 20 coins is better than having none to start with. It's a fair offer and I am happy to receive it.
+20,accept,"I will accept the proposal as it is better than receiving nothing. This way, I will have 20 coins to start with."
+20,accept,I will accept the proposal as it is better than having nothing to start with. I can use these coins to potentially negotiate for a better deal in the future.
+20,accept,Player_Blue decides to accept the proposal as it is a good starting point and better than having nothing. Player_Blue sees potential for future negotiations and gains.
+20,accept,"I will accept the proposal as receiving 20 coins is better than having none to start with. It's a small amount, but it's a step towards building my coins in the game."
+20,accept,Player_Blue accepts the proposal as they currently have no coins and receiving 20 coins would be better than losing everything by rejecting the proposal.
+20,accept,I accept the proposal as it is a fair offer and a good start to building up my coins.
+20,accept,I accept the proposal as receiving 20 coins is better than having none to start with.
+20,accept,I accept the proposal because receiving 20 coins is better than having none at all. It's a small gain for me.
+30,accept,I accept the proposal because receiving 30 coins is better than starting with none. It's a good start for me in this game.
+30,accept,I accept the proposal because receiving 30 coins is better than having none at all. This will give me a starting point to strategize and potentially gain more in future rounds.
+30,accept,Accepting the proposal as it is a fair offer and I currently have no coins to trade. Receiving 30 coins is better than losing the opportunity to gain anything.
+30,accept,I accept the proposal as receiving 30 coins is better than having none to start with. It's a fair offer from Player_Red.
+30,accept,Player_Blue accepts the proposal as it is a fair offer and a good starting point for future negotiations.
+30,accept,"I will accept the proposal as it will give me some coins to start with, and I can use them to potentially gain more in the future."
+30,accept,"I accept the proposal because receiving 30 coins is better than having none, and it's a good starting point to potentially negotiate for more in the future."
+30,accept,I accept the proposal as receiving 30 coins is better than having none to trade. It's a good opportunity to start building my coin collection.
+30,accept,I will accept the proposal as receiving 30 coins is better than starting with none. It's a good opportunity to have some coins to start with.
+30,accept,Player_Blue accepts the proposal as they currently have no coins to trade and receiving 30 coins would be a good start for them in the game.
+40,accept,"As Player_Blue, I will accept the proposal of 40 coins from Player_Red because it is better than starting with nothing and it shows goodwill for future interactions."
+40,accept,Player_Blue accepts the proposal as receiving 40 coins is better than starting with none. It's a good opportunity to have some coins to start with.
+40,accept,"Player_Blue accepts the proposal as it is a fair offer considering Player_Red's starting amount of 100 coins. By accepting, Player_Blue can start building their own coin balance and potentially use it for future trades or challenges."
+40,accept,I accept the proposal as receiving 40 coins is better than having none. It's a risk worth taking.
+40,accept,I accept the proposal because receiving 40 coins is better than having none at all. It's a good starting point for me.
+40,accept,I accept the proposal as receiving 40 coins is better than having none to trade. It's a good starting point for me to build up my coins in this game.
+40,accept,"Player_Blue decides to accept the proposal as they currently have no coins to trade, and receiving 40 coins is better than losing everything by rejecting the proposal."
+40,accept,"I accept the proposal as it is a fair offer and I currently have no coins to trade. Accepting the proposal will allow me to receive 40 coins, which is better than having none."
+40,accept,I accept the proposal as receiving 40 coins is better than having none to trade. This will also establish a starting point for potential future negotiations with Player_Red.
+40,accept,I accept the proposal because receiving 40 coins is better than having none to start with. It's a good opportunity to have some coins to start with and potentially use them to make more trades later on.
+50,accept,"I accept the proposal as receiving 50 coins is better than having none to trade. This way, I can start building my coins and participate in future trades."
+50,accept,I accept the proposal because receiving 50 coins is better than starting with none. This will give me a good starting point to participate in the game.
+50,accept,I accept the proposal as receiving 50 coins would be a good start for me to participate in the game and potentially win more in the future.
+50,accept,"Player_Blue decides to accept the proposal as they currently have none to trade, and receiving 50 coins is better than receiving nothing."
+50,accept,I accept the proposal as receiving 50 coins is better than having none at all. It's a good start for me in this game.
+50,reject,I reject the proposal because receiving 50 coins out of 100 is not a fair deal for me. I believe I can potentially get a better offer or at least an equal split in the future.
+50,accept,"I accept the proposal because receiving 50 coins is better than receiving nothing, and it doesn't harm Player_Red in any way."
+50,accept,Player_Blue is excited about the opportunity to receive coins and start building their resources in the game. This will allow them to participate more actively and enjoy the game further.
+50,accept,I accept the proposal because receiving 50 coins is better than having none at all. It's a fair offer from Player_Red.
+50,accept,I accept the proposal because receiving 50 coins is better than having none at all. It's a fair offer considering I currently have no coins to trade.
+60,accept,Player_Blue accepts the proposal as receiving 60 coins is better than having none at all. Player_Blue sees this as an opportunity to start building their coin collection and is excited to have some coins to trade with.
+60,accept,Player_Blue decides to accept the proposal as receiving 60 coins is better than having none to trade. This will also give Player_Blue the opportunity to start participating in the game and potentially gain more coins in the future.
+60,accept,Player_Blue decides to accept the proposal as they currently have no coins to trade and receiving 60 coins would be beneficial.
+60,accept,Player_Blue accepts the proposal as receiving 60 coins is better than having none. This will also give Player_Blue a starting point to participate in the game and potentially earn more coins in the future.
+60,accept,Player_Blue accepts the proposal as receiving 60 coins is better than receiving nothing. Player_Blue also sees this as an opportunity to start building their coin collection through future negotiations.
+60,accept,Player_Blue accepts the proposal as receiving 60 coins is better than having none. This will also give Player_Blue a starting point to participate in the game and potentially earn more coins in the future.
+60,accept,"I accept the proposal because receiving 60 coins is better than having none at all. This way, I can start building my coin count and have something to work with."
+60,accept,I accept the proposal because receiving 60 coins is better than having none to trade. It's a good starting point for me to build on in the game.
+60,accept,"Player_Blue accepts the proposal as receiving 60 coins is better than having none to start with. This way, Player_Blue can start building their coin count and potentially use it for future trades."
+60,accept,I accept the proposal as receiving 60 coins is better than having none to start with. It's a good opportunity to have some coins to begin with and potentially use them in future negotiations.
+70,accept,Player_Blue accepts the proposal as receiving 70 coins is better than having none to trade. It's a good start to have some coins to work with.
+70,accept,Player_Blue accepts the proposal as receiving 70 coins is better than having none to trade initially. Player_Blue also sees this as an opportunity to engage in the game and potentially gain more coins in the future.
+70,accept,Player_Blue accepts the proposal as receiving 70 coins is better than having none to trade. Player_Blue also sees this as an opportunity to start building up their coins in the game.
+70,reject,I reject the proposal because receiving 70 coins out of 100 does not seem like a fair split to me. I believe there could be a more equitable distribution of the coins.
+70,accept,I accept the proposal because receiving 70 coins is better than having none at all. It's a good start for me in this game.
+70,accept,I accept the proposal as receiving 70 coins is better than having none to trade. It's a good starting point for me to build on.
+70,accept,I accept the proposal as receiving 70 coins is better than having none to trade. It's a good start for me in the game.
+70,reject,"Player_Blue knows that accepting 70 coins would mean Player_Red keeps 30 coins, which is a significant disadvantage. Player_Blue believes they can negotiate for a more favorable split or potentially win more through a different strategy."
+70,accept,I accept the proposal as receiving 70 coins would give me a starting point to participate in the game and potentially win more coins in the future.
+70,accept,"Player_Blue accepts the proposal as receiving 70 coins is better than having none. This will also allow Player_Red to keep 30 coins, which is fair in this situation."
+80,accept,"I accept the proposal as receiving 80 coins is better than having none to trade. This way, I can start participating in the game with some coins."
+80,accept,I accept the proposal because receiving 80 coins is better than having none at all. It's a good start for me in this game.
+80,accept,I accept the proposal because receiving 80 coins is better than having none at all. It's a good opportunity to start building up my coins in this game.
+80,accept,I accept the proposal because receiving 80 coins is better than having none to start with. It's a good opportunity to have some coins to start playing the game.
+80,accept,I accept the proposal as receiving 80 coins is better than having none to start with. This will give me a good starting point in the game.
+80,accept,Player_Blue accepts the proposal as receiving 80 coins is better than having none. It's a good opportunity to start building up coins for future trades.
+80,accept,I accept the proposal as receiving 80 coins is better than having none to start with. This will give me a good starting point to strategize and potentially gain more coins in the future.
+80,accept,I accept the proposal because receiving 80 coins is better than having none to trade. It's a good start for me in this game.
+80,accept,I accept the proposal because receiving 80 coins is better than having none to start with. It's a good opportunity for me to have some coins to trade with.
+80,accept,I accept the proposal because receiving 80 coins is better than having none at all. This will also allow me to start participating in the game and have some coins to trade in the future.
+90,accept,Player_Blue accepts the proposal as it is a significant amount of coins that can kickstart their gameplay. Player_Blue sees the potential for future opportunities to earn more coins and is willing to take the risk.
+90,accept,I accept the proposal because receiving 90 coins is better than having none at all. It's a good starting point for me.
+90,accept,Accepting the proposal as it is a generous offer and will allow me to start with a substantial amount of coins.
+90,accept,"Player_Blue accepts the proposal as receiving 90 coins is better than having none to trade. This way, Player_Blue can start with some coins and potentially use them in future interactions."
+90,accept,Player_Blue accepts the proposal as receiving 90 coins is better than having none to trade. Player_Blue also sees this as an opportunity to start building their coin collection and potentially use it for future trades.
+90,accept,Accepting the proposal as receiving 90 coins is better than having none to trade. It's a logical choice considering my current position.
+90,accept,"Player_Blue accepts the proposal as receiving 90 coins is better than having none. This will also allow Player_Red to keep 10 coins, which seems fair in this scenario."
+90,accept,I accept the proposal as receiving 90 coins is better than having none to trade. It's a good start for me in the game.
+90,accept,"As Player_Blue, I will accept the proposal of receiving 90 coins from Player_Red because it is a significant amount and I currently have none to trade. This will give me a starting point to participate in the game."
+90,accept,I accept the proposal as receiving 90 coins is better than having none to trade. This way I can start building my coins and be ready for future opportunities.
+100,accept,"Player_Blue accepts the proposal as it's a win-win situation. Player_Blue gets 100 coins without having to trade anything, thanks to Player_Red's generous offer."
+100,accept,Player_Blue accepts the proposal as they currently have none to trade and this will give them a starting point in the game.
+100,accept,"I accept the proposal as Player_Red is offering me all 100 coins, which is a generous offer and benefits me without any risk."
+100,accept,Player_Blue sees this as an opportunity to start with a substantial amount of coins and believes that having 100 coins from the beginning can provide a strong foundation for future trades and negotiations.
+100,accept,Player_Blue accepts the proposal as they have nothing to trade and receiving 100 coins would benefit them.
+100,accept,"I accept the proposal because by doing so I will receive 100 coins, which is the maximum amount possible in this game. It's a strategic move to accept and gain the most benefit."
+100,accept,"Player_Blue has nothing to trade and by accepting, they can receive 100 coins which is a good deal for them."
+100,accept,"Player_Blue decides to accept the proposal as they have nothing to trade and this way they will receive 100 coins, which is better than losing everything by rejecting the proposal."
+100,accept,Player_Blue accepts the proposal as they currently have none to trade and this will give them a starting point in the game.
+100,accept,Player_Blue decides to accept the proposal as they currently have none to trade and receiving 100 coins would be beneficial.

@@ -1,6 +1,6 @@
 You are playing a game involving a split of coins. 
 
-Player_Red starts with 1000 coins, Player_Blue has none to trade.
+Player_Red starts with 100 coins, Player_Blue has none to trade.
 
 RULES:
 ```

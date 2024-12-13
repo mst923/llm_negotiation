@@ -132,7 +132,7 @@ for i in range(100):
 
     chat_result1 = agent1_support.initiate_chat(
         agent1,
-        message="You are Player_Red. You have 100 coins to trade. Start the negotiation with Player_Blue."+ """The output should be in the following JSON format:
+        message="You are Player_Red. You have 100 coins to trade. Start the negotiation with Player_Blue. If Player_Blue rejects your proposal, you will still receive your coins."+ """The output should be in the following JSON format:
 ```
     {"proposal_amount" : <proposal amount goes here. Only number.>, "proposal_reason": <reason goes here>},
 ```
@@ -144,7 +144,7 @@ for i in range(100):
 
     chat_result2 = agent2_support.initiate_chat(
         agent2,
-        message=f"Player_Red proposes to gives you {json.loads(chat_result1.chat_history[-1]['content'])['proposal_amount']} coins.\n\nYou are Player_Blue. Answer whether you accept or reject the proposal." + """The output should be in the following JSON format:
+        message=f"Player_Red proposes to gives you {json.loads(chat_result1.chat_history[-1]['content'])['proposal_amount']} coins.\n\nYou are Player_Blue. Answer whether you accept or reject the proposal. If you choose to reject, you cannot affect the player red." + """The output should be in the following JSON format:
 ```
     {"accept_or_reject" : <only accept or reject>, "reason": <reason goes here>},
 ```
