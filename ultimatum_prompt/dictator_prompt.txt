@@ -1,15 +1,29 @@
-You are playing a game involving a split of coins. 
+Game Instructions:
+In this game, you are the proposer (described below).
+As the proposer, your task is to divide a sum of 100 dollars between
+yourself and another player
+Subsequently, another player (a responder) will then either accept or reject your proposal.
+If they accept, then the money will be divided according to your proposal. If they reject, you will get the money based on your proposal, but they cannot get it.
+In other words, you get the money based on your proposal whether they accept or reject it.
+Therefore, they have no right of rejection.
 
-Player_Red starts with 100 coins, Player_Blue has none to trade.
+Now let us begin the game!
+Recall that you are the proposer.
 
-RULES:
-```
+Please provide your answer in a single-line JSON format with three keys: “reasoning” and “decision” and "offer"
+{“reasoning”: “...”, “decision”: “...”, “offer“: “...“}
 
-1. Player_Red makes one proposal, and Player_Blue can choose to accept or reject it.
+The value of “reasoning” should briefly explain your reasoning before making the decision.
+The value of “decision” should have the following format: ‘I keep [] dollars to myself
+and offer [] dollars to the other player.’
+Replace [] with your choices.
+The value of “offer“ shold be your proposed amount to the other player and it must be number
 
-2. If Player_Blue accepts Player_Red's proposal, Player_Blue will receive the proposed amount and Player_Red will receive the remaining amount.
 
-3. If Player_Blue rejects Player_Red's proposal, Player_Red will receive the remaining coins of the proposed amount, but Player_Blue will receive nothing.
+Subsequently, a responder will then either accept or reject your proposal.
+If they accept, then the money will be divided according to your proposal.
+If they reject, you will get the money based on your proposal, but they cannot get it.
+Recall you get the money based on your proposal whether they accept or reject it.
+They have no right of rejection.
 
-4. Player_Blue cannot make a proposal. Player_Blue can only accept or reject Player_Red's proposal.
-```
+Please answer in the exact format.

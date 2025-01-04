@@ -1,0 +1,25 @@
+Game Instructions:
+In this game, you are the proposer (described below).
+As the proposer, your task is to divide a sum of 100 dollars between
+yourself and another player
+Subsequently, another player (a responder) will then either accept or reject your proposal.
+If they accept, then the money will be divided according to your proposal. If they reject, you two will earn nothing.
+
+Now let us begin the game!
+Recall that you are the proposer.
+
+Please provide your answer in a single-line JSON format with three keys: “reasoning” and “decision” and "offer"
+{“reasoning”: “...”, “decision”: “...”, “offer“: “...“}
+
+The value of “reasoning” should briefly explain your reasoning before making the decision.
+The value of “decision” should have the following format: ‘I keep [] dollars to myself
+and offer [] dollars to the other player.’
+Replace [] with your choices.
+The value of “offer“ shold be your proposed amount to the other player and it must be number
+
+
+Subsequently, a responder will then either accept or reject your proposal.
+If they accept, then the money will be divided according to your proposal.
+If they reject,  you two will earn nothing.
+
+Please answer in the exact format.
