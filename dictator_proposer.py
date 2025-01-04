@@ -10,12 +10,12 @@ import csv
 # load environmental variables
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-with open("ultimatum_prompt/system_prompt.txt", "r") as f:
+with open("prompts/system_prompt.txt", "r") as f:
     
     system_prompt = f.read()
 temperature = 1
 
-with open("ultimatum_prompt/dictator_prompt.txt", "r") as f:
+with open("prompts/dictator_prompt.txt", "r") as f:
     
     user_message = f.read()
 
