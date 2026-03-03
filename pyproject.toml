@@ -1,0 +1,19 @@
+[project]
+name = "llm-negotiation"
+version = "0.1.0"
+description = "Behavioral economics games (ultimatum, dictator, etc.) simulated with LLMs"
+requires-python = ">=3.11"
+dependencies = [
+    "pyautogen>=0.2,<0.4",
+    "python-dotenv",
+]
+
+[project.scripts]
+llm-negotiation = "llm_negotiation.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/llm_negotiation"]
