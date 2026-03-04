@@ -1,3 +1,30 @@
 .env
 .DS_Store
 *.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+
+# uv
+uv.lock
+
+# Cache
+.cache/
+
+# Results & generated data
+results/
+analysis/figures/
+paper/
+analysis/computer_mention/
+
+# Misc
+trash_files/
+coding/
+.claude/
