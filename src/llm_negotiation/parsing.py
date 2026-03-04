@@ -1,25 +1,27 @@
 from __future__ import annotations
 
-import json
 import logging
+
+from pydantic import BaseModel, ValidationError
 
 logger = logging.getLogger(__name__)
 
 
-def parse_response(content: str, result_keys: dict[str, str]) -> dict[str, str] | None:
-    """Parse JSON from an LLM response and extract the configured keys.
+def parse_response(
+    content: str,
+    response_model: type[BaseModel],
+    csv_fields: dict[str, str],
+) -> dict[str, str] | None:
+    """Parse JSON from an LLM response using Pydantic validation.
 
-    *result_keys* maps ``{csv_column: json_key}``.
-    Returns ``None`` when the content cannot be parsed or a key is missing.
+    *response_model* is the Pydantic model to validate against.
+    *csv_fields* maps ``{csv_column: model_field}``.
+    Returns ``None`` when the content cannot be parsed or validation fails.
     """
     try:
-        data = json.loads(content)
-    except (json.JSONDecodeError, TypeError) as exc:
-        logger.warning("JSON parse failed: %s — raw content: %s", exc, content[:200])
+        obj = response_model.model_validate_json(content)
+    except ValidationError as exc:
+        logger.warning("Validation failed: %s — raw content: %s", exc, content[:200])
         return None
 
-    try:
-        return {col: data[json_key] for col, json_key in result_keys.items()}
-    except KeyError as exc:
-        logger.warning("Missing key %s in response: %s", exc, list(data.keys()))
-        return None
+    return {col: getattr(obj, field) for col, field in csv_fields.items()}

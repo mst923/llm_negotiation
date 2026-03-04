@@ -20,6 +20,9 @@ uv.lock
 
 # Results & generated data
 results/
+analysis/figures/
+paper/
+analysis/computer_mention/
 
 # Misc
 trash_files/
